@@ -1,0 +1,6 @@
+{
+  "name": "Octeract Cypher — Constellation Studio",
+  "description": "8-dimensional hypercube (Q8) geometric and algebraic analysis workbench for undeciphered scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
